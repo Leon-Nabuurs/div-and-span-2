@@ -12,6 +12,14 @@ main {
     background-color: rgba(67,67,67,0.1);
 }
 
+nav li {
+    display: inline;
+    background-color: beige;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 li {
     color: black;
